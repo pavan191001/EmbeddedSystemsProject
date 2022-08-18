@@ -18,7 +18,7 @@ Group members:
         
 Abstract: 
           
-          This project is mainly to reduce the wastage of water and electricity. Lack of 
+   This project is mainly to reduce the wastage of water and electricity. Lack of 
 water leads to less crop. More water more crop. This justifies that water is very 
 essential in irrigation. The manual irrigation needs monitoring frequently but 
 automatic systems can be programmed to turn OFF and, ON the system,
